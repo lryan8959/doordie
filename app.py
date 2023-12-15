@@ -5,7 +5,6 @@ import requests
 import os
 load_dotenv()
 
-os.environ['OPENAI_API_KEY'] = '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'
 
 app = Flask(__name__)
 
